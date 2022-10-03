@@ -40,6 +40,6 @@ public class Area {
         obj.square();
         obj.triangle();
     }
-} {
+} 
     
 }
