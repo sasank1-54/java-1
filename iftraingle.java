@@ -16,7 +16,5 @@ public class Months {
         Months obj = new Months();
         obj.DaysToMonths();
     }
-}
- {
-    
+}   
 }
