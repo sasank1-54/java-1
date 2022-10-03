@@ -33,6 +33,5 @@ public class insurance {
             ig.giveInsurance(val, age);
         }
     }
-} {
-    
+}    
 }
